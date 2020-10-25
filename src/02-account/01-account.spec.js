@@ -1,7 +1,13 @@
-const Account = require("./bank.js");
+const Account = require("./account.js");
+
+/* This demonstrates
+ - Testing an object defined in an external file
+
+*/
 
 let account;
 
+// account is initialised before each test 
 beforeEach(function () {
   account = new Account(42);
 });

@@ -1,0 +1,13 @@
+{
+  "name": "jasmine-01-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "jasmine": "3.6.2",
+  },
+  "scripts": {
+    "start": "jasmine",
+  },
+  "keywords": []
+}

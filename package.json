@@ -1,11 +1,16 @@
 {
-  "name": "jasmine-01-simple",
+  "name": "karma-01-simple",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "dependencies": {
     "jasmine": "3.6.2",
-    "jasmine-terminal-reporter": "^1.0.3"
+    "jasmine-terminal-reporter": "^1.0.3",
+    "karma": "^5.2.3",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1",
+    "puppeteer": "^5.4.1",
+    "react": "^17.0.1"
   },
   "scripts": {
     "start": "jasmine"

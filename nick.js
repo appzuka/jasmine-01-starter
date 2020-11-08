@@ -1,0 +1,1 @@
+function nick() { console.log('Nick calledxxx')}

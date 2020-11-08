@@ -1,2 +1,2 @@
 language = "bash"
-run = "npx jasmine"
+run = "npx karma start"
